@@ -4,7 +4,7 @@
 
 3.install npm--------npm install
 
-4.deploy the code
+4.deploy the code and start with npm start coammand
 
 5.access the page from browser with publicIp:3000---you will get hello world as output
 
