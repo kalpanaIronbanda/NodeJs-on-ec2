@@ -10,11 +10,11 @@
 
 4. clone this repo
     
-        git clone 
+        git clone https://github.com/kalpanaIronbanda/NodeJs-on-vm.git
 
 5. navigate to that project directory
     
-        cd <"folder name">
+        cd NodeJs-on-vm
 
 6. start the application   
    
