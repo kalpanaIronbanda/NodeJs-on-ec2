@@ -1,19 +1,24 @@
 1. launch ec2
 
 2. install nodejs
-    yum install nodejs
+    
+        yum install nodejs
 
 3. install npm
-    npm install
+    
+        npm install
 
 4. clone this repo
-    git clone 
+    
+        git clone 
 
 5. navigate to that project directory
-    cd <"folder name">
+    
+        cd <"folder name">
 
 6. start the application   
-   npm start
+   
+        npm start
 
 
 7. access the page from browser with publicIp:3000---
