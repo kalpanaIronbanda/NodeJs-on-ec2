@@ -21,6 +21,9 @@
         npm start
 
 
-7. access the page from browser with publicIp:3000---
-   you will get hello world as output
+7. access the page
+
+        http://localhost:3000
+
+you will get "hello world" as output
 
